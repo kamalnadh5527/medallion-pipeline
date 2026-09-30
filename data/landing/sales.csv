@@ -1,0 +1,8 @@
+sale_id,product_id,store_id,sale_date,quantity,discount,sales_channel,noise_score
+T001,P100,S001,2026-01-05,2,0, Online,1
+T002,P101,S002,01/06/2026,1,0.10,STORE,
+T003,P102,S003,2026/01/07,3,0.05,online ,3.5
+T004,P103,S004,Jan 08 2026,,,Store,2
+T005,,S001,2026-01-09,,5%,ONLINE,2
+T006,P104,S002,09-01-2026,4,0,store,
+T006,P104,S002,09-01-2026,4,0,store,1

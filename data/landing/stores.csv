@@ -1,0 +1,5 @@
+store_id,store_name,city,region
+S001, Downtown ,New York,East
+S002,NORTHSIDE, chicago,MIDWEST
+S003,northside,CHICAGO ,midwest
+S004,,Austin,South

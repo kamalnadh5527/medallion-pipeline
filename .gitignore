@@ -1,0 +1,38 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+ 
+# Virtual environments
+.venv/
+venv/
+env/
+ 
+# Local environment secrets
+.env
+.env.example
+.env.*
+# IDE settings
+.vscode/
+.idea/
+ 
+# Generated data files
+*.parquet
+/data/**/*.csv
+!/data/landing/
+!/data/landing/*.csv
+!/data/landing/**/*.csv
+ 
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+ 
+# Chroma database files
+.chroma/
+ 
+# Generated output
+/reports/
+/audit_logs/
+ 
+# Operating system files
+.DS_Store
+Thumbs.db
